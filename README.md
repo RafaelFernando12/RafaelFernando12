@@ -1,8 +1,7 @@
 ### Olá, eu sou Rafael Bergmann.
 
 
-- 🔭 Trabalho como desenvolvedor fullstack desenvolvendo aplicações em Java com Springboot e Angular Typescript.
-      - Também já tive a oportunidade de desenvolver para mobile em flutter.
+- 🔭 Trabalho como Java Spring Boot e Angular Typescript. 
 <!-- - 🌱 Estudando Java / Angular -->
 - 📫 Contate-me no e-mail: rafael.bergmann@hotmail.com
 
