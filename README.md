@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Desenvolvimento java com Spring boot e Angular Typescript.
-- 🌱 Estudando Java / Angular
+<!-- - 🌱 Estudando Java / Angular -->
 - 📫 Contate-me no e-mail: rafael.bergmann@hotmail.com
 
 <div>
