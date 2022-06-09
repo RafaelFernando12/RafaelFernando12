@@ -1,7 +1,7 @@
 ### Olá, eu sou Rafael Bergmann.
 
 
-- 🔭 Trabalho como Java Spring Boot e Angular Typescript. 
+- 🔭 Trabalho com Java Spring Boot e Angular Typescript.
 <!-- - 🌱 Estudando Java / Angular -->
 - 📫 Contate-me no e-mail: rafael.bergmann@hotmail.com
 
