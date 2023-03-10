@@ -5,11 +5,12 @@
 - :construction_worker: Trabalho como **Desenvolvedor FullStack**, e com foco em desenvolver habilidades em **Golang**
   > Dentre minhas experiências tive a oportunidade de atuar em projetos desenvolvidos em **Java**, **Spring Boot**, **Angular TypeScript**, **Golang**.
   > Em um dos projetos **Java** com **Spring Boot** desenvolvidos, foi na arquitetura de **Micro Serviços**, realizando autenticação jwt com **Keycloak**, criando regras para permissão de acesso do usuário para algumas áreas do sistema. Este projeto em particular me trouxe muita experiência pois participei do início ao fim.
-<div>
-  <a href="https://github.com/RafaelFernando12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelFernando12&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFernando12&layout=compact&langs_count=16&theme=nightowl"/> -->
-</div>
+
+  
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelFernando12&theme=nightowl"/>
+</p>
+
 
   
  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
