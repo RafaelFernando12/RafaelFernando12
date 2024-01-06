@@ -2,7 +2,7 @@
 
 
 - :books: Graduado em **Análise e Desenvolvimento de Sistema** pela [Universidade do Sul de Santa Catarina](https://www.unisul.br).
-- :construction_worker: Trabalho como **Desenvolvedor FullStack**, e com foco em desenvolver habilidades em **Golang**
+- :construction_worker: Trabalho como **Desenvolvedor**, e com foco em desenvolver habilidades em **Golang**
   > Dentre minhas experiências tive a oportunidade de atuar em projetos desenvolvidos em **Java**, **Spring Boot**, **Angular TypeScript**, **Golang**.
   > Em um dos projetos **Java** com **Spring Boot** desenvolvidos, foi na arquitetura de **Micro Serviços**, realizando autenticação jwt com **Keycloak**, criando regras para permissão de acesso do usuário para algumas áreas do sistema. Este projeto em particular me trouxe muita experiência pois participei do início ao fim.
 
